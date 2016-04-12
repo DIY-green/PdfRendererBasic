@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidStudio\BlogPreview\PdfRendererBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\AndroidStudio\BlogPreview\PdfRendererBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-13cafe5ebf11b92fedac23231246ec88265baa4e.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\BlogPreview\PdfRendererBasic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="E:\AndroidStudio\BlogPreview\PdfRendererBasic\Application\build\intermediates\pre-dexed\debug\classes-ec920cfb7d2436f4253a2c6dfc930639e0965dd8.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\BlogPreview\PdfRendererBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="E:\AndroidStudio\BlogPreview\PdfRendererBasic\Application\build\intermediates\pre-dexed\debug\classes-6b4b49e4368d76b1b1e8e7d3ebe47274b01fe2c3.jar" />
+    </item>
+    <item
+        jar="D:\Development\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\AndroidStudio\BlogPreview\PdfRendererBasic\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-311f5cbfe050c5d0279d7637df7c58a1c48e002b.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\BlogPreview\PdfRendererBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="E:\AndroidStudio\BlogPreview\PdfRendererBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-8c9ea5a66986fa6d567a14ce282e8642ac157cb5.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\BlogPreview\PdfRendererBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\AndroidStudio\BlogPreview\PdfRendererBasic\Application\build\intermediates\pre-dexed\debug\classes-43cbd8f82a92f0b2c23987ba3b4b7c1a5b878afa.jar" />
+    </item>
+
+</items>
